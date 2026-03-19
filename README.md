@@ -13,5 +13,4 @@ O terceiro e mais complexo desafio da trilha. O foco aqui foi a implementação 
 
 ## 🧠 Aprendizados
 - Implementação de `@RequestParam` para filtros opcionais.
-- Lógica de busca avançada com Java Streams.
 - Padronização de objetos para sistemas de inventário de ativos.
